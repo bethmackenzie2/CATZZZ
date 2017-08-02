@@ -1,3 +1,9 @@
 h1 {
   color: #f532ab;
+  font-size: 100px;
+}
+
+ul li {
+  color: black;
+  font-family: helvetica;
 }
