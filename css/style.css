@@ -1,9 +1,19 @@
 h1 {
   color: #f532ab;
 font-size: 100px;
-} 
+}
 
 h2 {
 color: #42f4e5;
 font-size: 36px;
+}
+
+h3 {
+  font-size: 20px
+}
+.jumbotron {
+  background-image: url('http://www.solidbackgrounds.com/images/1024x768/1024x768-periwinkle-solid-color-background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 600px;
 }
