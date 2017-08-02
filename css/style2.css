@@ -5,10 +5,14 @@ font-size: 100px;
 
 h2 {
   font-size: 36px;
-  color: #42f4e5;
+  color: black;
 }
 
 h4 {
   font-size: 30px;
   color: #f532ab;
+}
+
+* {
+  background-color: #b3c9fc
 }
