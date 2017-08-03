@@ -27,4 +27,14 @@ ol li{
 
 h4 {
   font-size: 30px;
+  color: #936ef2;
+}
+
+p {
+  font-size: 20px;
+  font-family: lucida bright;
+}
+
+h5{
+  font-size: 10px;
 }
