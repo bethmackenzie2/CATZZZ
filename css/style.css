@@ -1,16 +1,10 @@
 body {
-  background-color:#b3c9fc;
+  background-color: pink;
 }
 
 h1 {
 color: #f532ab;
 font-size: 100px;
-}
-
-.banner {
-  width: 100%;
-  height: 100px;
-  background-color: #0949dc;
 }
 
 h2 {
