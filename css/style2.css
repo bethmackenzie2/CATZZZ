@@ -11,12 +11,14 @@ h2 {
 h4 {
   font-size: 30px;
   color: #f532ab;
+  font-family: helvetica;
 }
 
 * {
-  background-color: pink; 
+  background-color: pink;
 }
 
 ul li {
   font-size:20px;
+  font-family: helvetica;
 }

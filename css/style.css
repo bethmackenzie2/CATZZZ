@@ -9,9 +9,13 @@ font-size: 36px;
 }
 
 h3 {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 * {
   background-color:#b3c9fc;
+}
+
+ul li{
+  font-family: helvetica;
 }
